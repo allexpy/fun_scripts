@@ -1,0 +1,6 @@
+permalink,company,numEmps,category,city,state,fundedDate,raisedAmt,raisedCurrency,round
+digg,Digg,60,web,San Francisco,CA,12/01/06,8500000,USD,b
+digg,Digg,60,web,San Francisco,CA,10/01/05,2800000,USD,a
+facebook,Facebook,450,web,Palo Alto,CA,09/01/04,500000,USD,angel
+facebook,Facebook,450,web,Palo Alto,CA,05/01/05,12700000,USD,a
+photobucket,Photobucket,60,web,Palo Alto,CA,03/01/05,3000000,USD,a
